@@ -9,7 +9,8 @@ require (
 	github.com/caarlos0/env/v6 v6.0.0
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/cheggaaa/pb/v3 v3.0.3
-	github.com/docker/docker v24.0.9+incompatible
+	github.com/distribution/reference v0.6.0 // indirect
+	github.com/docker/docker v26.1.4+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/go-git/go-git/v5 v5.4.2 // indirect
 	github.com/go-redis/redis/v8 v8.11.5
@@ -31,6 +32,7 @@ require (
 	github.com/khulnasoft-lab/vul-db v0.0.1
 	github.com/kylelemons/godebug v1.1.0
 	github.com/masahiro331/go-mvn-version v0.0.0-20210429150710-d3157d602a08
+	github.com/moby/docker-image-spec v1.3.1 // indirect
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/open-policy-agent/opa v0.43.1
 	github.com/spf13/afero v1.9.2
